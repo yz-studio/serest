@@ -1,0 +1,27 @@
+{
+  "name": "serest",
+  "version": "0.1.0",
+  "description": "Restful file serving",
+  "bin": {
+    "serest": "./bin/serest.js"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "keywords": [
+    "rest",
+    "http",
+    "server"
+  ],
+  "author": "qf@yz.studio",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "koa": "latest"
+  },
+  "scripts": {
+    "start": "node ./bin/serest.js",
+    "test": "echo 'test'"
+  },
+  "homepage": "https://github.com/yz-studio/serest#readme"
+}
