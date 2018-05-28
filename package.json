@@ -1,6 +1,6 @@
 {
   "name": "serest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Restful file serving",
   "bin": {
     "serest": "./bin/serest.js"
@@ -14,8 +14,7 @@
     "server"
   ],
   "author": "QF <qf@yz.studio> (https://yz.studio)",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "koa": "latest"
   },
