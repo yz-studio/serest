@@ -13,7 +13,7 @@
     "http",
     "server"
   ],
-  "author": "qf@yz.studio",
+  "author": "QF <qf@yz.studio> (https://yz.studio)",
   "devDependencies": {
   },
   "dependencies": {
@@ -23,5 +23,6 @@
     "start": "node ./bin/serest.js",
     "test": "echo 'test'"
   },
+  "license": "MIT",
   "homepage": "https://github.com/yz-studio/serest#readme"
 }
